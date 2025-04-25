@@ -39,7 +39,6 @@ The script pulls album covers with the Spotify API, analyzes the main color of e
 - Con: Ignores spatial structure and can miss subtle tonal differences.
 
 ### TO DO LIST
-- Progression bar with %
 - Color-themed mini playlists
 - Command line tool
 

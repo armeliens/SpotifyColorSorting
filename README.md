@@ -26,9 +26,10 @@ By pulling album art via the Spotify API, the script analyzes each cover’s mai
 
 ### ✅ Example Result
 
-- 🟢 Playlist created: [See example](https://open.spotify.com/playlist/7KcaZp49FUo84UmSiXXsEm?si=bf4aa6cf28064061)  
-- 🕒 Time taken: ~7 minutes  
-- 📸 Visual preview:  
+- 🟢 Playlist created: [example](https://open.spotify.com/playlist/7kIIr7qSbFNbkbKw4treKc?si=8cd43c6055cf418a)
+- 🕒 Time taken: ~7 minutes for a 357 tracks long playlist
+- 📸 Visual preview
+
   ![Visual result](https://github.com/armeliens/SpotifyColorSorting/blob/main/Visual%20result.png)
 
 ---

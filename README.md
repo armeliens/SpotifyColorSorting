@@ -20,7 +20,8 @@ By pulling album art via the Spotify API, the script analyzes each cover’s mai
    `http://127.0.0.1:8888/callback`
 3. Download the [`SpotifyColorSorting.py`](https://github.com/armeliens/SpotifyColorSorting/blob/main/SpotifyColorSorting.py) script  
    *(Click the "Download" button in the top-right corner of the file)*
-4. Run the script and enter your `CLIENT_ID` and `CLIENT_SECRET` from the app you just created when prompted.
+4. Double-click on the file you just downloaded
+5. When prompted, enter your `CLIENT_ID` and your `CLIENT_SECRET` from the Spotify Developers app you just created
 
 ---
 

@@ -68,6 +68,7 @@ By pulling album art via the Spotify API, the script analyzes each cover’s mai
 - [X] Progress bar with %
 - [ ] Color-themed mini playlists
 - [ ] Command-line version
+- [ ] Collage picture maker (like [Discover Quickly](https://discoverquickly.com/))
 
 ---
 
